@@ -84,5 +84,3 @@ npm test                    # 12 unit tests: health score, state machine, foreca
 
 Errors are `{ "error": "message", "details"?: [...] }` with 400 validation · 401 · 403 role · 404 · 422 business rule.
 
-## Roadmap
-Notifications (warranty expiry, overdue inspections, new complaints), photo uploads for inspections, offline mobile inspections, and ward budget and replacement planning. The full plan is in [docs/PRAVI_IMPLEMENTATION_PLAN.md](docs/PRAVI_IMPLEMENTATION_PLAN.md).
